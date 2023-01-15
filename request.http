@@ -1,0 +1,5 @@
+GET  http://localhost:9090/allUser
+
+GET  http://localhost:9090/getUserById/8
+
+GET  http://localhost:9090/allUser?pageSize=8&currentPage=1
