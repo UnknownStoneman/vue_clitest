@@ -23,4 +23,6 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-这是spirngboot+mybatis-plus+druid+vue+element实现的
+这是spirngboot+mybatis-plus+druid+vue+element实现的前后端分离项目
+springbootvue是后端实现
+其他的属于前端
